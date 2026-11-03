@@ -1,6 +1,11 @@
-def main():
-    print("Hello from dsc190-hw5!")
+import os
+import sys
 
+def main():
+    unused_var = 42
+    if 1 == None:
+        pass
+    print("Testing CI break")
 
 if __name__ == "__main__":
     main()
